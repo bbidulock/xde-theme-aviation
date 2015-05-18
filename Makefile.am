@@ -9,14 +9,7 @@ dist_wmakertheme_DATA = \
 	theme/style
 
 dist_xdeimage_DATA = \
-	images/boarding.jpg \
-	images/jet_in_sky.jpg \
-	images/greenland.jpg \
-	images/clouds.jpg \
-	images/skis.jpg \
-	images/soaring.jpg
-
-EXTRA_DIST = \
+	images/aircanada_mountains.jpg \
 	images/boarding.jpg \
 	images/clouds2.jpg \
 	images/clouds.jpg \
@@ -27,6 +20,20 @@ EXTRA_DIST = \
 	images/skis.jpg \
 	images/soaring.jpg \
 	images/sundog.jpg
+
+EXTRA_DIST = \
+	images/aircanada_mountains.jpg \
+	images/boarding.jpg \
+	images/clouds2.jpg \
+	images/clouds.jpg \
+	images/greenland.jpg \
+	images/groundstation.jpg \
+	images/jet_in_sky.jpg \
+	images/jet_over_towers.jpg \
+	images/skis.jpg \
+	images/soaring.jpg \
+	images/sundog.jpg
+
 
 install-data-hook:
 	$(MKDIR_P) $(DESTDIR)$(adwmstylesdir)

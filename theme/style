@@ -32,18 +32,18 @@
   MenuTitleExtendSpace = 0;
   SwitchPanelImages = (sytile.xpm, syback.xpm, 30, 40);
   WorkspaceSpecificBack = (
-    (spixmap, "boarding.jpg",	    "#717171"),
-    (spixmap, "jet_in_sky.jpg",	    "#717171"),
-    (spixmap, "greenland.jpg",	    "#717171"),
-    (spixmap, "clouds.jpg",	    "#717171"),
-    (spixmap, "skis.jpg",	    "#717171"),
-    (spixmap, "soaring.jpg",	    "#717171"),
-    (spixmap, "boarding.jpg",	    "#717171"),
-    (spixmap, "jet_in_sky.jpg",	    "#717171"),
-    (spixmap, "greenland.jpg",	    "#717171"),
-    (spixmap, "clouds.jpg",	    "#717171"),
-    (spixmap, "skis.jpg",	    "#717171"),
-    (spixmap, "soaring.jpg",	    "#717171")
+    (spixmap, "aircanada_mountains.jpg", "#717171"),
+    (spixmap, "clouds.jpg",		 "#717171"),
+    (spixmap, "greenland.jpg",		 "#717171"),
+    (spixmap, "groundstation.jpg",	 "#717171"),
+    (spixmap, "skis.jpg",		 "#717171"),
+    (spixmap, "soaring.jpg",		 "#717171"),
+    (spixmap, "aircanada_mountains.jpg", "#717171"),
+    (spixmap, "clouds.jpg",		 "#717171"),
+    (spixmap, "greenland.jpg",		 "#717171"),
+    (spixmap, "groundstation.jpg",	 "#717171"),
+    (spixmap, "skis.jpg",		 "#717171"),
+    (spixmap, "soaring.jpg",		 "#717171")
   );
-  WorkspaceBack = (spixmap, "boarding.jpg", "#717171");
+  WorkspaceBack = (spixmap, "aircanada_mountains.jpg", "#717171");
 }

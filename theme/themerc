@@ -9,12 +9,12 @@ XDE-Theme*WorkspaceCenter:		0
 XDE-Theme*WorkspaceScaled:		0
 XDE-Theme*WorkspaceTiled:		0
 XDE-Theme*WorkspaceFull:		1
-XDE-Theme*WorkspaceImage:		aviation/boarding.jpg
+XDE-Theme*WorkspaceImage:		aviation/aircanada_mountains.jpg
 
-XDE-Theme*Workspace0Image:		aviation/boarding.jpg
-XDE-Theme*Workspace1Image:		aviation/jet_in_sky.jpg
+XDE-Theme*Workspace0Image:		aviation/aircanada_mountains.jpg
+XDE-Theme*Workspace1Image:		aviation/clouds.jpg
 XDE-Theme*Workspace2Image:		aviation/greenland.jpg
-XDE-Theme*Workspace3Image:		aviation/clouds.jpg
+XDE-Theme*Workspace3Image:		aviation/groundstation.jpg
 XDE-Theme*Workspace4Image:		aviation/skis.jpg
 XDE-Theme*Workspace5Image:		aviation/soaring.jpg
 
