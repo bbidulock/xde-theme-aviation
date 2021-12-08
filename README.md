@@ -1,10 +1,10 @@
-[xde-theme-aviation -- read me first file.  2015-05-18]: #
+[xde-theme-aviation -- read me first file.  2021-12-08]: #
 
 xde-theme-aviation
 ===============
 
-Package `xde-theme-aviation-1.1.5` was released under CCPL:cc-by-nc-nd-3.0
-license 2015-05-18.
+Package `xde-theme-aviation-1.2` was released under CCPL:cc-by-nc-nd-3.0
+license 2021-12-08.
 
 This is a theme and a set of backgrounds for the _XDE (X Desktop
 Environment)_ that provides a set of backgrounds on
@@ -18,7 +18,7 @@ The source for `xde-theme-aviation` is hosted on [GitHub][1].
 Release
 -------
 
-This is the `xde-theme-aviation-1.1.5` package, released 2015-05-18.
+This is the `xde-theme-aviation-1.2` package, released 2021-12-08.
 This release, and the latest version, can be obtained from [GitHub][1],
 using a command such as:
 
@@ -92,14 +92,14 @@ Following are the six wallpapers included in the theme:
 
 [1]: https://github.com/bbidulock/xde-theme-aviation
 [2]: https://github.com/bbidulock/xde-theme-aviation/issues
-[3]: https://github.com/bbidulock/xde-theme-aviation/blob/master/RELEASE
-[4]: https://github.com/bbidulock/xde-theme-aviation/blob/master/NEWS
-[5]: https://github.com/bbidulock/xde-theme-aviation/blob/master/ChangeLog
-[6]: https://github.com/bbidulock/xde-theme-aviation/blob/master/TODO
-[7]: https://github.com/bbidulock/xde-theme-aviation/blob/master/COMPLIANCE
-[8]: https://github.com/bbidulock/xde-theme-aviation/blob/master/INSTALL
-[9]: https://github.com/bbidulock/xde-theme-aviation/blob/master/LICENSE
-[10]: https://github.com/bbidulock/xde-theme-aviation/blob/master/COPYING
+[3]: https://github.com/bbidulock/xde-theme-aviation/blob/1.2/RELEASE
+[4]: https://github.com/bbidulock/xde-theme-aviation/blob/1.2/NEWS
+[5]: https://github.com/bbidulock/xde-theme-aviation/blob/1.2/ChangeLog
+[6]: https://github.com/bbidulock/xde-theme-aviation/blob/1.2/TODO
+[7]: https://github.com/bbidulock/xde-theme-aviation/blob/1.2/COMPLIANCE
+[8]: https://github.com/bbidulock/xde-theme-aviation/blob/1.2/INSTALL
+[9]: https://github.com/bbidulock/xde-theme-aviation/blob/1.2/LICENSE
+[10]: https://github.com/bbidulock/xde-theme-aviation/blob/1.2/COPYING
 [11]: https://github.com/bbidulock/xde-styles
 [12]: https://github.com/bbidulock/xde-ctools
 
