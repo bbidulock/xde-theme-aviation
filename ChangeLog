@@ -1,0 +1,82 @@
+# created with git log --stat=76 -M -C -500|fmt -sct -w80
+
+commit bc98732903812fde021bdefaf2f06f4e837c94b2
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon May 18 05:29:09 2015 -0600
+
+    alter theme images somewhat
+
+ Makefile.am                    |  13 ++++++++++---
+ images/aircanada_mountains.jpg | Bin 0 -> 278402 bytes
+ theme/style                    |  26 +++++++++++++-------------
+ theme/theme.ini                |   8 ++++----
+ theme/themerc                  |   8 ++++----
+ 5 files changed, 31 insertions(+), 24 deletions(-)
+
+commit c9876945de3b78b21fb9de95eeaaa6d89cec3ca7
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Fri Sep 12 15:38:53 2014 -0600
+
+    added adwm style
+
+ Makefile.am        | 34 ++++++++++++++++++----------------
+ configure.template |  6 ++++++
+ 2 files changed, 24 insertions(+), 16 deletions(-)
+
+commit 8ab56c1747db042f6159efc3ff17b05e9958ead0
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sun Aug 17 17:12:48 2014 -0600
+
+    add themerc file
+
+ Makefile.am   |  3 ++-
+ theme/themerc | 69 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 71 insertions(+), 1 deletion(-)
+
+commit f8f6ab8f521b9b53ff3c6c227d0f656c5ccf5776
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Sat Jan 25 05:11:45 2014 -0700
+
+    added waimea support
+
+ Makefile.am        | 32 +++++++++++++++++---------------
+ configure.template |  6 ++++++
+ 2 files changed, 23 insertions(+), 15 deletions(-)
+
+commit dfca5f436b8d6720b1996de19479f89233f9398e
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 17:48:49 2013 -0700
+
+    updated description
+
+ README | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit 260a6da7b97c1d6863c30ae30076d4ab6f4d93c1
+Author: Brian Bidulock <bidulock@openss7.org>
+Date:   Mon Dec 23 16:38:47 2013 -0700
+
+    intiial commit
+
+ .gitignore                 |  12 ++++
+ AUTHORS                    |   3 +
+ COPYING                    |  58 +++++++++++++++++++
+ Makefile.am                |  67 ++++++++++++++++++++++
+ NEWS                       |  10 ++++
+ README                     |  65 +++++++++++++++++++++
+ THANKS                     |   3 +
+ autogen.sh                 |  19 +++++++
+ configure.template         | 126 +++++++++++++++++++++++++++++++++++++++++
+ images/boarding.jpg        | Bin 0 -> 387552 bytes
+ images/clouds.jpg          | Bin 0 -> 262522 bytes
+ images/clouds2.jpg         | Bin 0 -> 434188 bytes
+ images/greenland.jpg       | Bin 0 -> 250843 bytes
+ images/groundstation.jpg   | Bin 0 -> 200478 bytes
+ images/jet_in_sky.jpg      | Bin 0 -> 328119 bytes
+ images/jet_over_towers.jpg | Bin 0 -> 317121 bytes
+ images/skis.jpg            | Bin 0 -> 263614 bytes
+ images/soaring.jpg         | Bin 0 -> 266475 bytes
+ images/sundog.jpg          | Bin 0 -> 287591 bytes
+ theme/style                |  49 ++++++++++++++++
+ theme/theme.ini            |  81 ++++++++++++++++++++++++++
+ 21 files changed, 493 insertions(+)
