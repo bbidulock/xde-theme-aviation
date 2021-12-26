@@ -1,5 +1,16 @@
 xde-theme-aviation -- history of user-visible changes.  2021-12-08
 
+Release xde-theme-aviation-1.2.3 released 2021-12-08
+----------------------------------------------------
+
+git shortlog -e -n -w80,6,8 1.2...HEAD
+
+Brian Bidulock <bidulock@openss7.org> (3):
+      post-release update
+      add a screenshot
+      prepare for adwm theme
+
+
 Release xde-theme-aviation-1.2 released 2021-12-08
 --------------------------------------------------
 
